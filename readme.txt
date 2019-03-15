@@ -1,0 +1,2 @@
+need:
+	opengl lib
